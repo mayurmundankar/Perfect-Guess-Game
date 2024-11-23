@@ -21,7 +21,7 @@ The Perfect Guess is an interactive number-guessing game built with HTML, CSS, a
 - **JavaScript**: For implementing game logic and interactivity.
 
 ## Deployment
-The game is deployed on Vercel for easy access. [Play The Perfect Guess here](#).
+The game is deployed on Vercel for easy access. [Play The Perfect Guess here](https://perfect-guess-game.vercel.app).
 
 ## Setup Instructions
 To run the project locally:
