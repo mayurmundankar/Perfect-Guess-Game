@@ -45,11 +45,4 @@ Developed with ❤️ by Mayur.
 6. License
 This project is licensed under the MIT License. Feel free to fork and modify it!
 
----
-
-### **Additional Notes**:
-- Replace the placeholder link (`#`) under the **Deployment** section with the actual Vercel deployment link once hosted.
-- Add a screenshot of the game (`screenshot.png`) in the repository to enhance the README visual appeal.
-- Use this README to showcase a professional and detailed description of your project.
-
 Let me know if you need further assistance! 🚀
